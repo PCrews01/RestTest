@@ -2,40 +2,45 @@
   "bobby": [
   {
     "id": 1,
-    "name": "Paulinthious",
-    "company": "Paul Corp.",
-    "power": 10,
-    "special": "War Raider"
+    "name": "Mr. Fischoeder",
+    "company": "Real Estate",
+    "power": 4,
+    "special": "Rent Razor's Edge",
+    "image": "fischoeder.png"
 
   },
   {
     "id": 2,
-    "name": "James",
-    "company": "JBC",
-    "power": 8,
-    "special": "BOOM Drop!"
+    "name": "Jimmy Pesto",
+    "company": "Jimmy Pesto's",
+    "power": 2,
+    "special": "Pizza Toss",
+    "image": "jimmysr.png"
   },
   {
     "id": 3,
-    "name": "Lenny",
-    "company": "LenWorks",
+    "name": "Jimmy Jr.",
+    "company": "Student",
     "power": 4,
-    "special": "The Wrap Up"
+    "special": "Whithper In The Wind",
+    "image": "jimmyjr.png"
   },
   {
     "id": 4,
-    "name": "Jannie",
-    "company": "J Drive",
+    "name": "Zeke",
+    "company": "Student",
     "power": 7,
-    "special": "HugsVille"
+    "special": "Booger Flicker",
+    "image": "zeke.png"
 
   },
   {
     "id": 5,
-    "name": "Kel",
-    "company": "All That",
-    "power": 8,
-    "special": "Soda Stream"
+    "name": "Linda",
+    "company": "Bob's Burgers",
+    "power": 4,
+    "special": "Vocal",
+    "image": "linda.png"
   },
   {
     "id": 6,
