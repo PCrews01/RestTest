@@ -1,4 +1,5 @@
-﻿[
+{
+  "bobby": [
   {
     "id": 1,
     "name": "Paulinthious",
@@ -78,3 +79,4 @@
     "image": "gene.png"
   }
 ]
+}
