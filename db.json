@@ -6,7 +6,7 @@
     "company": "Real Estate",
     "power": 4,
     "special": "Rent Razor's Edge",
-    "image": "./assets/fischoeder.png"
+    "image": require("./assets/fischoeder.png")
 
   },
   {
