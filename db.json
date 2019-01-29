@@ -6,7 +6,7 @@
     "company": "Real Estate",
     "power": 4,
     "special": "Rent Razor's Edge",
-    "image": "fischoeder.png"
+    "image": "./assets/fischoeder.png"
 
   },
   {
@@ -15,7 +15,7 @@
     "company": "Jimmy Pesto's",
     "power": 2,
     "special": "Pizza Toss",
-    "image": "jimmysr.png"
+    "image": "./assets/jimmysr.png"
   },
   {
     "id": 3,
@@ -23,7 +23,7 @@
     "company": "Student",
     "power": 4,
     "special": "Whithper In The Wind",
-    "image": "jimmyjr.png"
+    "image": "./assets/jimmyjr.png"
   },
   {
     "id": 4,
@@ -31,7 +31,7 @@
     "company": "Student",
     "power": 7,
     "special": "Booger Flicker",
-    "image": "zeke.png"
+    "image": "./assets/zeke.png"
 
   },
   {
@@ -40,7 +40,7 @@
     "company": "Bob's Burgers",
     "power": 4,
     "special": "Vocal",
-    "image": "linda.png"
+    "image": "./assets/linda.png"
   },
   {
     "id": 6,
@@ -48,7 +48,7 @@
     "company": "Bob's Burgers",
     "power": 5,
     "special": "The SNaiL",
-    "image": "teddy.png"
+    "image": "./assets/teddy.png"
   },
   {
     "id": 7,
@@ -56,7 +56,7 @@
     "company": "Bob's Burgers",
     "power": 6,
     "special": "Buns Buster",
-    "image": "bob.png"
+    "image": "./assets/bob.png"
   },
   {
     "id": 8,
@@ -64,7 +64,7 @@
     "company": "Bob's Burgers",
     "power": 9,
     "special": "Tina Twerk",
-    "image": "tina.png"
+    "image": "./assets/tina.png"
 
   },
   {
@@ -73,7 +73,7 @@
     "company": "Bob's Burger",
     "power": 8,
     "special": "Ear Hustle",
-    "image": "louise.png"
+    "image": "./assets/louise.png"
   },
   {
     "id": 10,
@@ -81,7 +81,7 @@
     "company": "Bob's Burgers",
     "power": 10,
     "special": "Fart Blaster",
-    "image": "gene.png"
+    "image": "./assets/gene.png"
   }
 ]
 }
