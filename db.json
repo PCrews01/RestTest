@@ -1,0 +1,82 @@
+{
+  "bobby": [
+  {
+    "id": 1,
+    "name": "Paulinthious",
+    "company": "Paul Corp.",
+    "power": 10,
+    "special": "War Raider"
+
+  },
+  {
+    "id": 2,
+    "name": "James",
+    "company": "JBC",
+    "power": 8,
+    "special": "BOOM Drop!"
+  },
+  {
+    "id": 3,
+    "name": "Lenny",
+    "company": "LenWorks",
+    "power": 4,
+    "special": "The Wrap Up"
+  },
+  {
+    "id": 4,
+    "name": "Jannie",
+    "company": "J Drive",
+    "power": 7,
+    "special": "HugsVille"
+
+  },
+  {
+    "id": 5,
+    "name": "Kel",
+    "company": "All That",
+    "power": 8,
+    "special": "Soda Stream"
+  },
+  {
+    "id": 6,
+    "name": "Teddy",
+    "company": "Bob's Burgers",
+    "power": 5,
+    "special": "The SNaiL",
+    "image": "teddy.png"
+  },
+  {
+    "id": 7,
+    "name": "Bob",
+    "company": "Bob's Burgers",
+    "power": 6,
+    "special": "Buns Buster",
+    "image": "bob.png"
+  },
+  {
+    "id": 8,
+    "name": "Tina",
+    "company": "Bob's Burgers",
+    "power": 9,
+    "special": "Tina Twerk",
+    "image": "tina.png"
+
+  },
+  {
+    "id": 9,
+    "name": "Louise",
+    "company": "Bob's Burger",
+    "power": 8,
+    "special": "Ear Hustle",
+    "image": "louise.png"
+  },
+  {
+    "id": 10,
+    "name": "Gene",
+    "company": "Bob's Burgers",
+    "power": 10,
+    "special": "Fart Blaster",
+    "image": "gene.png"
+  }
+]
+}
